@@ -1,0 +1,39 @@
+{
+    "bgColor": 4283215696,
+    "nPages": 120,
+    "title": "Petualangan Si Kancil",
+    "nBooks": 5,
+    "bookCovers": [
+        "https://example.com/covers/kancil-1.png",
+        "https://example.com/covers/kancil-2.png"
+    ],
+    "categories": [
+        "dongeng",
+        "petualangan",
+        "anak"
+    ],
+    "desc": "Kumpulan cerita petualangan seru si Kancil.",
+    "createdAt": "timestamp",
+    "updatedAt": "timestamp",
+    "id": "collection_001",
+    "books": {
+        "book_id1": {
+            "title": "Kancil dan Buaya",
+            "coverUrl": "https://example.com/covers/kancil-buaya.png",
+            "category": "dongeng",
+            "nPages": 30,
+            "summary": "Cerita tentang kecerdikan Kancil menghadapi Buaya.",
+            "totalQuiz": 5,
+            "completedQuiz": 3
+        },
+        "book_id2": {
+            "title": "Petualangan Si Kancil",
+            "coverUrl": "https://example.com/covers/kancil-petualangan.png",
+            "category": "fantasi",
+            "nPages": 10,
+            "summary": "Kancil menjelajahi hutan dan bertemu berbagai hewan.",
+            "totalQuiz": 5,
+            "completedQuiz": 0
+        }
+    }
+}
