@@ -7,7 +7,6 @@
 [![State Management](https://img.shields.io/badge/State%20Management-GetX%204.7.2-8E24AA)](https://pub.dev/packages/get)
 [![Local Database](https://img.shields.io/badge/Local%20DB-Isar%20Community%203.3-00B4D8)](https://pub.dev/packages/isar_community)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
-[![License](https://img.shields.io/badge/License-Proprietary-blue.svg)](#)
 
 ---
 
@@ -211,11 +210,3 @@ Aplikasi menggunakan perutean terpusat GetX pada `lib/core/routes/epic_routes.da
 Direktori `assets/` terorganisir ke dalam beberapa sub-folder:
 * `assets/images/`: Ikon grafis UI, ilustrasi koin, lencana hadiah, tombol visual, dan latar.
 * `assets/books/others/`: Dokumen sampel PDF cerita (contoh: `transportation.pdf`).
-* `assets/jsons/`: Aset animasi Lottie dan data konfigurasi pendukung.
-
----
-
-## 📄 Lisensi
-
-Hak Cipta © 2026 **Epic Story App**. Seluruh hak cipta dilindungi undang-undang.
-Proyek ini bersifat tertutup (*proprietary*) untuk tujuan edukasi dan pengembangan internal.
